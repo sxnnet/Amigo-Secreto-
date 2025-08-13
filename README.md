@@ -8,9 +8,9 @@ La idea de este juego es sencilla al igual que su funcionamiento. Se agregan los
 
 R E S U M E N : 
 
-1) Escribes el nombre de un amigo en la cajita de texto.
-2) Le das al botón Añadir para guardarlo en la lista.
-3) Cuando ya estén todos los nombres, presionas Sortear amigo.
+1) Escribes el nombre de un amigo en la caja de texto.
+2) Le das al botón "Añadir" para guardarlo en la lista.
+3) Cuando ya estén todos los nombres, presionas "Sortear amigo".
 4) La página te dirá quién es tu amigo secreto.
 Reglas:
 6) No se pueden agregar nombres vacíos.
