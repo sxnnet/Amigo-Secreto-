@@ -4,7 +4,7 @@
 
 La idea de este juego es sencilla al igual que su funcionamiento. Se agregan los nombres de las personas que van a participar del sorteo y la página le otorga a cada participante su respectivo amigo secreto al azar.
 
-------- R E S U M E N ------------------------------
+----------- R E S U M E N -------------------------------------
 1) Escribes el nombre de un amigo en la cajita de texto.
 2) Le das al botón Añadir para guardarlo en la lista.
 3) Cuando ya estén todos los nombres, presionas Sortear amigo.
@@ -13,13 +13,14 @@ Reglas:
 6) No se pueden agregar nombres vacíos.
 7) No se pueden repetir nombres. Si quieres poner el mismo nombre, debes cambiarlo un poco para diferenciarlo.
 8) Deben haber al menos dos nombres para poder hacer el sorteo.
--------------------------------------------------
+---------------------------------------------------------------
 
 Archivos que se incluyen:
 - index.html → Estructura de la página.
 - style.css → Estilos (colores, tamaños, etc.).
 - app.js → Lógica para agregar nombres y sortear.
 
+---------------------------------------------------------------
 
 ¿Cómo funciona?
 
