@@ -1,6 +1,6 @@
 <img width="1231" height="626" alt="Captura de pantalla 2025-08-13 113328" src="https://github.com/user-attachments/assets/95183552-f716-4ef6-a666-608d97108825" />
 
-                                --------- J U E G O  D E L  A M I G O  S E C R E T O ----------
+              --------- J U E G O  D E L  A M I G O  S E C R E T O ----------
 
 La idea de este juego es sencilla al igual que su funcionamiento. Se agregan los nombres de las personas que van a participar del sorteo y la página le otorga a cada participante su respectivo amigo secreto al azar.
 
