@@ -44,9 +44,11 @@ Archivos que se incluyen:
 
 <img width="884" height="752" alt="amigo4" src="https://github.com/user-attachments/assets/9be139e2-0929-410f-a624-ac3a8f17300a" />
 
-3) Una vez ingresados los nombres de todos los participantes, cada uno de ellos debe presionar el botón "Sortear amigo" para así obtener su amigo secreto al azar.
+3) Una vez ingresados los nombres de todos los participantes, cada uno de ellos debe presionar el botón "Sortear amigo"
 
 <img width="1010" height="810" alt="Captura de pantalla 2025-08-13 112149" src="https://github.com/user-attachments/assets/b43691be-4f70-485f-b611-c02f08738914" />
+
+Finalmente obteniendo el nombre del amigo secreto sorteado al azar.
 
 <img width="946" height="801" alt="Captura de pantalla 2025-08-13 112207" src="https://github.com/user-attachments/assets/f45a2d18-4120-4351-b0f2-13ecb4283f14" />
 
